@@ -1,0 +1,60 @@
+**Step 1: Choose the Right ITR Form**
+
+* There are six types of ITR forms in India: ITR-1, ITR-2, ITR-3, ITR-4, ITR-5, and ITR-6.
+* Choose the right form based on your income sources and tax liabilities.
+* For most individuals, ITR-1 (Sahaj) or ITR-4 (Sugam) would be sufficient.
+
+**Step 2: Gather Required Documents**
+
+* PAN (Permanent Account Number) card
+* Aadhaar card (if you have one)
+* Form 16 (TDS certificate) from your employer
+* Form 26AS (TDS credit) from the Income Tax Department website
+* Bank statements and passbook
+* Proof of investments (e.g., fixed deposits, shares, etc.)
+* Proof of income from other sources (e.g., rent, interest, etc.)
+
+**Step 3: Log in to the Income Tax Portal**
+
+* Visit the Income Tax Department's website at incometaxindia.gov.in
+* Click on "Login" and enter your PAN, password, and captcha
+* If you don't have a login, create one by clicking on "New User" and following the prompts
+
+**Step 4: Fill Out the ITR Form**
+
+* Click on "E-file" and select the relevant ITR form
+* Fill out the form in the following sections:
+        + Personal details (name, address, date of birth, etc.)
+        + Income details (salary, interest, dividends, etc.)
+        + Deductions and exemptions (e.g., 80C, 80D, etc.)
+        + Tax payment details (TDS, advance tax, etc.)
+        + Verification (digital signature or Aadhaar-based e-verification)
+
+**Step 5: Attach Supporting Documents**
+
+* Upload the required documents, such as Form 16, Form 26AS, and bank statements
+* Ensure that the documents are in PDF format and not exceeding 1 MB in size
+
+**Step 6: Review and Submit the ITR Form**
+
+* Review the form carefully to ensure accuracy and completeness
+* Make any necessary corrections
+* Click on "Submit" to e-file the ITR form
+* You will receive an acknowledgement number, which serves as proof of submission
+
+**Step 7: Pay the Tax**
+
+* If you owe tax, you can pay online using a debit card, credit card, or net banking
+* You can also pay by cheque or demand draft, but this may take longer to process
+
+**Step 8: Verify the ITR Form**
+
+* You will receive an email with a verification link
+* Click on the link to verify your ITR form
+* You can also verify using the Aadhaar-based e-verification process
+
+**Step 9: Download the ITR-V Form**
+
+* After verification, you will receive an ITR-V form
+* Download and print the form
+* Sign the form and send it to the Income Tax Department's CPC (Centralized Processing Centre) within 120 days of e-filing
